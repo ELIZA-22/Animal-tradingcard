@@ -1,0 +1,35 @@
+.container{
+    display:block;
+      width:300px;
+      border:1px solid lightgrey;
+      padding:10px
+    }
+    img{
+    width:300px;
+     
+    /*   border-radius:5px  */
+    }
+    .imgcontainer{
+      width:100%;
+      display:flex;
+      align-items:center;
+          justify-content:center;
+    }
+    .contentcontainer{
+      border:1px solid lightgrey;
+    /*   margin:10px; */
+      margin-top:17px;
+      padding-right:0.5em;
+      padding-left:0.5em;}
+    ul{
+     list-style-type:none;
+      background-color:transparent;
+      margin:0;
+      padding:0   
+    }
+    li span{
+    font-weight:bold
+    }
+    p{
+      font-size:17px
+    }
